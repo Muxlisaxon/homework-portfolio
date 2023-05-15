@@ -1,0 +1,52 @@
+body {
+    background: rgb(220, 214, 215);
+}
+
+.one {
+    margin-top: 100px;
+}
+
+
+.black{
+    width: 60px;
+    height: 70px;
+    background: black;
+    border-radius: 50%;
+    position: absolute;
+    border: 2px solid black;
+    transform: translate(-50% ,-50%);
+    top: 82px;
+    left: 65px;
+}
+.koz{
+    position: absolute;
+    width: 127px;
+    height: 160px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: -455px;
+    margin-left: 592px;
+
+}
+.koz1{
+    position: absolute;
+    width: 127px;
+    height: 160px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: -456px;
+    margin-left: 743px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
